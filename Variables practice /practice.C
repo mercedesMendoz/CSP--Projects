@@ -32,12 +32,5 @@ char color[ ] = "pink";
     printf("%s",subject);
 
 
-
-
-
-
-
-
-
     return 0;
 }
