@@ -10,3 +10,9 @@ exponent = -2*(1*4-2/2)+(6+2-3)
 print(exponent)
 exponent = -1*((3-4*7))/5-2*24/6
 print(exponent)
+exponent = (3*5**2/15)-(5-2**2)
+print(exponent)
+exponent = (1**4*2**2+3**3)-2**5/4
+print(exponent)
+exponent = (22/2-2*5)**2+(4-6/6)**2
+print(exponent)
