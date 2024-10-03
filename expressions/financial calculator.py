@@ -9,6 +9,7 @@ savings = income*0.2
 expenses= rent + utilities + groceries + trasnportation
 spending = income-expenses-savings
 print("your expenses are", expenses)
+print("You spending money is $",spending)
 print("your rent is", rent)
 print("your utilities are", utilities)
 print("your groceries are", groceries)
